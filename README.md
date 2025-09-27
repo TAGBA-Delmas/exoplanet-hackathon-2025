@@ -1,2 +1,2 @@
 # exoplanet-hackathon-2025
-exoplanet project 
+Project Hackathon NASA Space Apps : Pipeline exoplanènte (NASA data+IA+visualisation).
